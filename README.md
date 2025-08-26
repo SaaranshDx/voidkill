@@ -116,7 +116,8 @@ network tool kit
 
 ## License
 
-This project is **for educational purposes only**. Use responsibly and at your own risk.
+lisence
+[MIT](https://github.com/SaaranshDx/voidkill/blob/main/LISENCE)
 
 ---
 
