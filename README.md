@@ -40,7 +40,7 @@
 1. **Download the script**:
 
    ```powershell
-   Invoke-WebRequest -Uri "https://github.com/Saaransh_Dx/VOIDKILL/raw/main/VOIDKILL.ps1" -OutFile "VOIDKILL.ps1"
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/SaaranshDx/voidkill/refs/heads/main/voidkill.ps1" -OutFile "VOIDKILL.ps1"
    ```
 2. **Run PowerShell as Administrator**.
 3. **Execute the script**:
