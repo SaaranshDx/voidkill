@@ -94,8 +94,12 @@ The **Break Sequence** function terminates critical Windows processes:
 
 ## Screenshots
 
-*(Add screenshots here of the main menu, task manager, and network toolkit for better visualization.)*
-
+menu
+![screenshot1](screenshots/sc1.png)
+taskmanager
+![screenshot1](screenshots/sc2.png)
+network tool kit
+![screenshot1](screenshots/sc3.png)
 ---
 
 ## Contributing
